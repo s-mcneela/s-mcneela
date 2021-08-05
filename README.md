@@ -1,4 +1,4 @@
-Stephen McNeela
+Stephen McNeela,
 Frameworks: React, Django, Django REST 
 Main Languages: Python, Javascript, Java, C
 Skilled in pure CSS design
